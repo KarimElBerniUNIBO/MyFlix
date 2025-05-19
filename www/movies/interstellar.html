@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>MyFlix - Dettaglio - Interstellar</title>
+    <style>
+        body {
+            margin: 0;
+            background-color: #141414;
+            color: #e5e5e5;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+            background: #222;
+            border-radius: 10px;
+            box-shadow: 0 0 20px #000;
+        }
+        .back-button {
+            color: #e50914;
+            text-decoration: none;
+            font-weight: bold;
+            margin-bottom: 20px;
+            display: inline-block;
+            font-size: 16px;
+        }
+        .movie-header {
+            display: flex;
+            gap: 20px;
+            align-items: flex-start;
+            flex-wrap: wrap;
+        }
+        .poster {
+            max-width: 300px;
+            border-radius: 8px;
+            box-shadow: 0 0 15px #e50914;
+        }
+        .info {
+            flex: 1;
+        }
+        h1 {
+            margin-top: 0;
+            color: #e50914;
+            font-size: 2.5rem;
+        }
+        .meta {
+            font-size: 1rem;
+            color: #aaa;
+            margin-bottom: 15px;
+        }
+        .description {
+            font-size: 1.1rem;
+            line-height: 1.5;
+        }
+        .btn-watch {
+            display: inline-block;
+            margin-top: 25px;
+            padding: 12px 25px;
+            background-color: #e50914;
+            color: white;
+            font-weight: bold;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+        }
+        .btn-watch:hover {
+            background-color: #b0060f;
+        }
+        @media (max-width: 600px) {
+            .movie-header {
+                flex-direction: column;
+                align-items: center;
+            }
+            .poster {
+                max-width: 100%;
+            }
+            .info {
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="../movies.html" class="back-button">&larr; Torna a Film</a>
+        <div class="movie-header">
+            <img src="../images/interstellar.jpg" alt="Interstellar Poster" class="poster" />
+            <div class="info">
+                <h1>Interstellar</h1>
+                <div class="meta">Anno: 2014 &nbsp; | &nbsp; Genere: Sci-Fi, Avventura &nbsp; | &nbsp; Durata: 169 min</div>
+                <p class="description">
+                    In un futuro prossimo, la Terra è minacciata da una crisi ambientale globale. Un team di astronauti intraprende un viaggio attraverso un wormhole alla ricerca di un nuovo pianeta abitabile per salvare l'umanità. Diretto da Christopher Nolan.
+                </p>
+                <a href="#" class="btn-watch">Guarda ora</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>MyFlix - Dettaglio - Inception</title>
+    <style>
+        body {
+            margin: 0;
+            background-color: #141414;
+            color: #e5e5e5;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .container {
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 20px;
+            background: #222;
+            border-radius: 10px;
+            box-shadow: 0 0 20px #000;
+        }
+        .back-button {
+            color: #e50914;
+            text-decoration: none;
+            font-weight: bold;
+            margin-bottom: 20px;
+            display: inline-block;
+            font-size: 16px;
+        }
+        .movie-header {
+            display: flex;
+            gap: 20px;
+            align-items: flex-start;
+            flex-wrap: wrap;
+        }
+        .poster {
+            max-width: 300px;
+            border-radius: 8px;
+            box-shadow: 0 0 15px #e50914;
+        }
+        .info {
+            flex: 1;
+        }
+        h1 {
+            margin-top: 0;
+            color: #e50914;
+            font-size: 2.5rem;
+        }
+        .meta {
+            font-size: 1rem;
+            color: #aaa;
+            margin-bottom: 15px;
+        }
+        .description {
+            font-size: 1.1rem;
+            line-height: 1.5;
+        }
+        .btn-watch {
+            display: inline-block;
+            margin-top: 25px;
+            padding: 12px 25px;
+            background-color: #e50914;
+            color: white;
+            font-weight: bold;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background-color 0.3s ease;
+        }
+        .btn-watch:hover {
+            background-color: #b0060f;
+        }
+        @media (max-width: 600px) {
+            .movie-header {
+                flex-direction: column;
+                align-items: center;
+            }
+            .poster {
+                max-width: 100%;
+            }
+            .info {
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="../movies.html" class="back-button">&larr; Torna a Film</a>
+        <div class="movie-header">
+            <img src="../images/inception.jpg" alt="Inception Poster" class="poster" />
+            <div class="info">
+                <h1>Inception</h1>
+                <div class="meta">Anno: 2010 &nbsp; | &nbsp; Genere: Sci-Fi, Thriller, Azione &nbsp; | &nbsp; Durata: 148 min</div>
+                <p class="description">
+                    Dom Cobb è un ladro esperto nel rubare segreti dal profondo del subconscio durante il sogno. La sua abilità lo rende una preziosa risorsa ma anche un fuggitivo. Ora gli viene offerta una possibilità di redenzione: un ultimo lavoro che potrebbe cambiare tutto.
+                </p>
+                <a href="#" class="btn-watch">Guarda ora</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

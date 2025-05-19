@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #141414;
+    color: #fff;
+    line-height: 1.6;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em 2em;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.logo {
+    color: #e50914;
+    font-size: 2.2em;
+    font-weight: 700;
+}
+
+nav a {
+    color: #fff;
+    margin-left: 2em;
+    text-decoration: none;
+    font-weight: 400;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: #e50914;
+}
+
+main {
+    padding: 2em;
+}
+
+.hero {
+    background-image: url('https://images.unsplash.com/photo-1601933470928-c1fc45d13d63?auto=format&fit=crop&w=1450&q=80');
+    background-size: cover;
+    background-position: center;
+    padding: 10em 2em;
+    text-align: center;
+    color: white;
+}
+
+.hero h2 {
+    font-size: 3em;
+    margin-bottom: 0.5em;
+    text-shadow: 2px 2px 5px black;
+}
+
+.hero p {
+    font-size: 1.3em;
+    margin-bottom: 1em;
+}
+
+.hero button {
+    background-color: #e50914;
+    color: white;
+    padding: 1em 2em;
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+}
+
+.hero button:hover {
+    background-color: #f40612;
+}
+
+.section-title {
+    font-size: 2em;
+    margin: 2em 0 1em;
+    text-align: center;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 1.5em;
+    padding: 0 2em;
+}
+
+.card {
+    background-color: #222;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.4);
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card img {
+    width: 100%;
+    height: 270px;
+    object-fit: cover;
+}
+
+.card p {
+    padding: 1em;
+    text-align: center;
+}
