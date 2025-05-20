@@ -2,8 +2,17 @@ import socket
 import os
 import logging
 
-HOST, PORT = 'localhost', 8080
+HOST, PORT = '127.0.0.1', 8080
 WWW_DIR = 'www'
+
+MIME_TYPES = {
+    '.html': 'text/html',
+    '.css': 'text/css',
+    '.jpg': 'image/jpeg',
+    '.jpeg': 'image/jpeg',
+    '.png': 'image/png',
+    '.js': 'application/javascript'
+}
 
 # Configura il logging su file
 logging.basicConfig(
@@ -32,6 +41,7 @@ def get_content_type(file_path):
 with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as server_socket:
     server_socket.bind((HOST, PORT))
     server_socket.listen(5)
+    print(f"Server in ascolto su http://{HOST}:{PORT}")
     logging.info(f"Server avviato su http://{HOST}:{PORT}")
 
     while True:
