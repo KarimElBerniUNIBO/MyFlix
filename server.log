@@ -225,3 +225,34 @@
 2025-05-27 13:38:49 - INFO - Servito /images/interstellar.webp a ('127.0.0.1', 49170)
 2025-05-27 13:38:49 - INFO - Richiesta da ('127.0.0.1', 49171): GET /images/pergola.webp HTTP/1.1
 2025-05-27 13:38:49 - INFO - Servito /images/pergola.webp a ('127.0.0.1', 49171)
+2025-05-30 13:14:01 - INFO - Server avviato su http://127.0.0.1:8080
+2025-05-30 13:14:56 - INFO - Richiesta da ('127.0.0.1', 52610): GET / HTTP/1.1
+2025-05-30 13:14:56 - INFO - Servito /index.html a ('127.0.0.1', 52610)
+2025-05-30 13:14:56 - INFO - Richiesta da ('127.0.0.1', 52611): GET /style.css HTTP/1.1
+2025-05-30 13:14:56 - INFO - Servito /style.css a ('127.0.0.1', 52611)
+2025-05-30 13:15:00 - INFO - Richiesta da ('127.0.0.1', 52648): GET /favicon.ico HTTP/1.1
+2025-05-30 13:15:00 - WARNING - File non trovato /favicon.ico richiesto da ('127.0.0.1', 52648)
+2025-05-30 13:15:03 - INFO - Richiesta da ('127.0.0.1', 52670): GET /movies.html HTTP/1.1
+2025-05-30 13:15:03 - INFO - Servito /movies.html a ('127.0.0.1', 52670)
+2025-05-30 13:15:03 - INFO - Richiesta da ('127.0.0.1', 52677): GET /style.css HTTP/1.1
+2025-05-30 13:15:03 - INFO - Servito /style.css a ('127.0.0.1', 52677)
+2025-05-30 13:15:03 - INFO - Richiesta da ('127.0.0.1', 52678): GET /images/inception.webp HTTP/1.1
+2025-05-30 13:15:03 - INFO - Servito /images/inception.webp a ('127.0.0.1', 52678)
+2025-05-30 13:15:03 - INFO - Richiesta da ('127.0.0.1', 52679): GET /images/interstellar.webp HTTP/1.1
+2025-05-30 13:15:03 - INFO - Servito /images/interstellar.webp a ('127.0.0.1', 52679)
+2025-05-30 13:15:03 - INFO - Richiesta da ('127.0.0.1', 52680): GET /images/pergola.webp HTTP/1.1
+2025-05-30 13:15:03 - INFO - Servito /images/pergola.webp a ('127.0.0.1', 52680)
+2025-05-30 13:15:04 - INFO - Richiesta da ('127.0.0.1', 52683): GET /interstellar.html HTTP/1.1
+2025-05-30 13:15:04 - INFO - Servito /interstellar.html a ('127.0.0.1', 52683)
+2025-05-30 13:15:04 - INFO - Richiesta da ('127.0.0.1', 52684): GET /images/interstellar.webp HTTP/1.1
+2025-05-30 13:15:04 - INFO - Servito /images/interstellar.webp a ('127.0.0.1', 52684)
+2025-05-30 13:15:05 - INFO - Richiesta da ('127.0.0.1', 52685): GET /movies.html HTTP/1.1
+2025-05-30 13:15:05 - INFO - Servito /movies.html a ('127.0.0.1', 52685)
+2025-05-30 13:15:05 - INFO - Richiesta da ('127.0.0.1', 52686): GET /style.css HTTP/1.1
+2025-05-30 13:15:05 - INFO - Servito /style.css a ('127.0.0.1', 52686)
+2025-05-30 13:15:05 - INFO - Richiesta da ('127.0.0.1', 52687): GET /images/inception.webp HTTP/1.1
+2025-05-30 13:15:05 - INFO - Servito /images/inception.webp a ('127.0.0.1', 52687)
+2025-05-30 13:15:05 - INFO - Richiesta da ('127.0.0.1', 52688): GET /images/interstellar.webp HTTP/1.1
+2025-05-30 13:15:05 - INFO - Servito /images/interstellar.webp a ('127.0.0.1', 52688)
+2025-05-30 13:15:05 - INFO - Richiesta da ('127.0.0.1', 52689): GET /images/pergola.webp HTTP/1.1
+2025-05-30 13:15:05 - INFO - Servito /images/pergola.webp a ('127.0.0.1', 52689)
