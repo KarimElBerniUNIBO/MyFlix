@@ -1,0 +1,227 @@
+2025-05-27 13:36:37 - INFO - Server avviato su http://127.0.0.1:8080
+2025-05-27 13:36:42 - INFO - Richiesta da ('127.0.0.1', 65335): GET / HTTP/1.1
+2025-05-27 13:36:42 - INFO - Servito /index.html a ('127.0.0.1', 65335)
+2025-05-27 13:36:42 - INFO - Richiesta da ('127.0.0.1', 65336): GET /style.css HTTP/1.1
+2025-05-27 13:36:42 - INFO - Servito /style.css a ('127.0.0.1', 65336)
+2025-05-27 13:36:44 - INFO - Richiesta da ('127.0.0.1', 65351): GET /favicon.ico HTTP/1.1
+2025-05-27 13:36:44 - WARNING - File non trovato /favicon.ico richiesto da ('127.0.0.1', 65351)
+2025-05-27 13:36:44 - INFO - Richiesta da ('127.0.0.1', 65354): GET /movies.html HTTP/1.1
+2025-05-27 13:36:44 - INFO - Servito /movies.html a ('127.0.0.1', 65354)
+2025-05-27 13:36:44 - INFO - Richiesta da ('127.0.0.1', 65355): GET /style.css HTTP/1.1
+2025-05-27 13:36:44 - INFO - Servito /style.css a ('127.0.0.1', 65355)
+2025-05-27 13:36:44 - INFO - Richiesta da ('127.0.0.1', 65357): GET /images/interstellar.webp HTTP/1.1
+2025-05-27 13:36:44 - INFO - Servito /images/interstellar.webp a ('127.0.0.1', 65357)
+2025-05-27 13:36:44 - INFO - Richiesta da ('127.0.0.1', 65358): GET /images/inception.webp HTTP/1.1
+2025-05-27 13:36:44 - INFO - Servito /images/inception.webp a ('127.0.0.1', 65358)
+2025-05-27 13:36:44 - INFO - Richiesta da ('127.0.0.1', 65359): GET /images/pergola.webp HTTP/1.1
+2025-05-27 13:36:44 - INFO - Servito /images/pergola.webp a ('127.0.0.1', 65359)
+2025-05-27 13:36:45 - INFO - Richiesta da ('127.0.0.1', 65361): GET /interstellar.html HTTP/1.1
+2025-05-27 13:36:45 - INFO - Servito /interstellar.html a ('127.0.0.1', 65361)
+2025-05-27 13:36:45 - INFO - Richiesta da ('127.0.0.1', 65362): GET /images/interstellar.webp HTTP/1.1
+2025-05-27 13:36:45 - INFO - Servito /images/interstellar.webp a ('127.0.0.1', 65362)
+2025-05-27 13:36:46 - INFO - Richiesta da ('127.0.0.1', 65363): GET /movies.html HTTP/1.1
+2025-05-27 13:36:46 - INFO - Servito /movies.html a ('127.0.0.1', 65363)
+2025-05-27 13:36:46 - INFO - Richiesta da ('127.0.0.1', 65364): GET /style.css HTTP/1.1
+2025-05-27 13:36:46 - INFO - Servito /style.css a ('127.0.0.1', 65364)
+2025-05-27 13:36:46 - INFO - Richiesta da ('127.0.0.1', 65365): GET /images/inception.webp HTTP/1.1
+2025-05-27 13:36:46 - INFO - Servito /images/inception.webp a ('127.0.0.1', 65365)
+2025-05-27 13:36:46 - INFO - Richiesta da ('127.0.0.1', 65366): GET /images/interstellar.webp HTTP/1.1
+2025-05-27 13:36:46 - INFO - Servito /images/interstellar.webp a ('127.0.0.1', 65366)
+2025-05-27 13:36:46 - INFO - Richiesta da ('127.0.0.1', 65367): GET /images/pergola.webp HTTP/1.1
+2025-05-27 13:36:46 - INFO - Servito /images/pergola.webp a ('127.0.0.1', 65367)
+2025-05-27 13:36:47 - INFO - Richiesta da ('127.0.0.1', 65368): GET /inception.html HTTP/1.1
+2025-05-27 13:36:47 - INFO - Servito /inception.html a ('127.0.0.1', 65368)
+2025-05-27 13:36:47 - INFO - Richiesta da ('127.0.0.1', 65369): GET /images/inception.webp HTTP/1.1
+2025-05-27 13:36:47 - INFO - Servito /images/inception.webp a ('127.0.0.1', 65369)
+2025-05-27 13:36:48 - INFO - Richiesta da ('127.0.0.1', 65370): GET /movies.html HTTP/1.1
+2025-05-27 13:36:48 - INFO - Servito /movies.html a ('127.0.0.1', 65370)
+2025-05-27 13:36:48 - INFO - Richiesta da ('127.0.0.1', 65371): GET /style.css HTTP/1.1
+2025-05-27 13:36:48 - INFO - Servito /style.css a ('127.0.0.1', 65371)
+2025-05-27 13:36:48 - INFO - Richiesta da ('127.0.0.1', 65372): GET /images/inception.webp HTTP/1.1
+2025-05-27 13:36:48 - INFO - Servito /images/inception.webp a ('127.0.0.1', 65372)
+2025-05-27 13:36:48 - INFO - Richiesta da ('127.0.0.1', 65373): GET /images/interstellar.webp HTTP/1.1
+2025-05-27 13:36:48 - INFO - Servito /images/interstellar.webp a ('127.0.0.1', 65373)
+2025-05-27 13:36:48 - INFO - Richiesta da ('127.0.0.1', 65374): GET /images/pergola.webp HTTP/1.1
+2025-05-27 13:36:48 - INFO - Servito /images/pergola.webp a ('127.0.0.1', 65374)
+2025-05-27 13:36:49 - INFO - Richiesta da ('127.0.0.1', 65375): GET /pergola.html HTTP/1.1
+2025-05-27 13:36:49 - INFO - Servito /pergola.html a ('127.0.0.1', 65375)
+2025-05-27 13:36:49 - INFO - Richiesta da ('127.0.0.1', 65376): GET /images/pergola.webp HTTP/1.1
+2025-05-27 13:36:49 - INFO - Servito /images/pergola.webp a ('127.0.0.1', 65376)
+2025-05-27 13:36:50 - INFO - Richiesta da ('127.0.0.1', 65377): GET /movies.html HTTP/1.1
+2025-05-27 13:36:50 - INFO - Servito /movies.html a ('127.0.0.1', 65377)
+2025-05-27 13:36:50 - INFO - Richiesta da ('127.0.0.1', 65378): GET /style.css HTTP/1.1
+2025-05-27 13:36:50 - INFO - Servito /style.css a ('127.0.0.1', 65378)
+2025-05-27 13:36:50 - INFO - Richiesta da ('127.0.0.1', 65379): GET /images/inception.webp HTTP/1.1
+2025-05-27 13:36:50 - INFO - Servito /images/inception.webp a ('127.0.0.1', 65379)
+2025-05-27 13:36:50 - INFO - Richiesta da ('127.0.0.1', 65380): GET /images/interstellar.webp HTTP/1.1
+2025-05-27 13:36:50 - INFO - Servito /images/interstellar.webp a ('127.0.0.1', 65380)
+2025-05-27 13:36:50 - INFO - Richiesta da ('127.0.0.1', 65381): GET /images/pergola.webp HTTP/1.1
+2025-05-27 13:36:50 - INFO - Servito /images/pergola.webp a ('127.0.0.1', 65381)
+2025-05-27 13:36:51 - INFO - Richiesta da ('127.0.0.1', 65382): GET /index.html HTTP/1.1
+2025-05-27 13:36:51 - INFO - Servito /index.html a ('127.0.0.1', 65382)
+2025-05-27 13:36:51 - INFO - Richiesta da ('127.0.0.1', 65383): GET /style.css HTTP/1.1
+2025-05-27 13:36:51 - INFO - Servito /style.css a ('127.0.0.1', 65383)
+2025-05-27 13:36:52 - INFO - Richiesta da ('127.0.0.1', 65384): GET /movies.html HTTP/1.1
+2025-05-27 13:36:52 - INFO - Servito /movies.html a ('127.0.0.1', 65384)
+2025-05-27 13:36:52 - INFO - Richiesta da ('127.0.0.1', 65385): GET /style.css HTTP/1.1
+2025-05-27 13:36:52 - INFO - Servito /style.css a ('127.0.0.1', 65385)
+2025-05-27 13:36:52 - INFO - Richiesta da ('127.0.0.1', 65386): GET /images/inception.webp HTTP/1.1
+2025-05-27 13:36:52 - INFO - Servito /images/inception.webp a ('127.0.0.1', 65386)
+2025-05-27 13:36:52 - INFO - Richiesta da ('127.0.0.1', 65387): GET /images/interstellar.webp HTTP/1.1
+2025-05-27 13:36:52 - INFO - Servito /images/interstellar.webp a ('127.0.0.1', 65387)
+2025-05-27 13:36:52 - INFO - Richiesta da ('127.0.0.1', 65388): GET /images/pergola.webp HTTP/1.1
+2025-05-27 13:36:52 - INFO - Servito /images/pergola.webp a ('127.0.0.1', 65388)
+2025-05-27 13:36:53 - INFO - Richiesta da ('127.0.0.1', 65389): GET /series.html HTTP/1.1
+2025-05-27 13:36:53 - INFO - Servito /series.html a ('127.0.0.1', 65389)
+2025-05-27 13:36:53 - INFO - Richiesta da ('127.0.0.1', 65390): GET /style.css HTTP/1.1
+2025-05-27 13:36:53 - INFO - Servito /style.css a ('127.0.0.1', 65390)
+2025-05-27 13:36:53 - INFO - Richiesta da ('127.0.0.1', 65391): GET /images/strangerthings.webp HTTP/1.1
+2025-05-27 13:36:53 - INFO - Servito /images/strangerthings.webp a ('127.0.0.1', 65391)
+2025-05-27 13:36:53 - INFO - Richiesta da ('127.0.0.1', 65392): GET /images/narcos.webp HTTP/1.1
+2025-05-27 13:36:53 - INFO - Servito /images/narcos.webp a ('127.0.0.1', 65392)
+2025-05-27 13:36:53 - INFO - Richiesta da ('127.0.0.1', 65393): GET /images/breakingbad.webp HTTP/1.1
+2025-05-27 13:36:53 - INFO - Servito /images/breakingbad.webp a ('127.0.0.1', 65393)
+2025-05-27 13:36:54 - INFO - Richiesta da ('127.0.0.1', 65394): GET /narcos.html HTTP/1.1
+2025-05-27 13:36:54 - INFO - Servito /narcos.html a ('127.0.0.1', 65394)
+2025-05-27 13:36:54 - INFO - Richiesta da ('127.0.0.1', 65395): GET /style.css HTTP/1.1
+2025-05-27 13:36:54 - INFO - Servito /style.css a ('127.0.0.1', 65395)
+2025-05-27 13:36:54 - INFO - Richiesta da ('127.0.0.1', 65396): GET /images/narcos.webp HTTP/1.1
+2025-05-27 13:36:54 - INFO - Servito /images/narcos.webp a ('127.0.0.1', 65396)
+2025-05-27 13:36:55 - INFO - Richiesta da ('127.0.0.1', 65397): GET /series.html HTTP/1.1
+2025-05-27 13:36:55 - INFO - Servito /series.html a ('127.0.0.1', 65397)
+2025-05-27 13:36:55 - INFO - Richiesta da ('127.0.0.1', 65398): GET /style.css HTTP/1.1
+2025-05-27 13:36:55 - INFO - Servito /style.css a ('127.0.0.1', 65398)
+2025-05-27 13:36:55 - INFO - Richiesta da ('127.0.0.1', 65399): GET /images/strangerthings.webp HTTP/1.1
+2025-05-27 13:36:55 - INFO - Servito /images/strangerthings.webp a ('127.0.0.1', 65399)
+2025-05-27 13:36:55 - INFO - Richiesta da ('127.0.0.1', 65400): GET /images/narcos.webp HTTP/1.1
+2025-05-27 13:36:55 - INFO - Servito /images/narcos.webp a ('127.0.0.1', 65400)
+2025-05-27 13:36:55 - INFO - Richiesta da ('127.0.0.1', 65401): GET /images/breakingbad.webp HTTP/1.1
+2025-05-27 13:36:55 - INFO - Servito /images/breakingbad.webp a ('127.0.0.1', 65401)
+2025-05-27 13:36:55 - INFO - Richiesta da ('127.0.0.1', 65402): GET /strangerthings.html HTTP/1.1
+2025-05-27 13:36:55 - INFO - Servito /strangerthings.html a ('127.0.0.1', 65402)
+2025-05-27 13:36:55 - INFO - Richiesta da ('127.0.0.1', 65403): GET /images/strangerthings.webp HTTP/1.1
+2025-05-27 13:36:55 - INFO - Servito /images/strangerthings.webp a ('127.0.0.1', 65403)
+2025-05-27 13:36:56 - INFO - Richiesta da ('127.0.0.1', 65404): GET /series.html HTTP/1.1
+2025-05-27 13:36:56 - INFO - Servito /series.html a ('127.0.0.1', 65404)
+2025-05-27 13:36:56 - INFO - Richiesta da ('127.0.0.1', 65405): GET /style.css HTTP/1.1
+2025-05-27 13:36:56 - INFO - Servito /style.css a ('127.0.0.1', 65405)
+2025-05-27 13:36:56 - INFO - Richiesta da ('127.0.0.1', 65406): GET /images/strangerthings.webp HTTP/1.1
+2025-05-27 13:36:56 - INFO - Servito /images/strangerthings.webp a ('127.0.0.1', 65406)
+2025-05-27 13:36:56 - INFO - Richiesta da ('127.0.0.1', 65407): GET /images/narcos.webp HTTP/1.1
+2025-05-27 13:36:56 - INFO - Servito /images/narcos.webp a ('127.0.0.1', 65407)
+2025-05-27 13:36:56 - INFO - Richiesta da ('127.0.0.1', 65408): GET /images/breakingbad.webp HTTP/1.1
+2025-05-27 13:36:56 - INFO - Servito /images/breakingbad.webp a ('127.0.0.1', 65408)
+2025-05-27 13:37:00 - INFO - Richiesta da ('127.0.0.1', 65417): GET /breakingbad.html HTTP/1.1
+2025-05-27 13:37:00 - INFO - Servito /breakingbad.html a ('127.0.0.1', 65417)
+2025-05-27 13:37:00 - INFO - Richiesta da ('127.0.0.1', 65418): GET /images/breakingbad.webp HTTP/1.1
+2025-05-27 13:37:00 - INFO - Servito /images/breakingbad.webp a ('127.0.0.1', 65418)
+2025-05-27 13:37:03 - INFO - Richiesta da ('127.0.0.1', 65419): GET /series.html HTTP/1.1
+2025-05-27 13:37:03 - INFO - Servito /series.html a ('127.0.0.1', 65419)
+2025-05-27 13:37:03 - INFO - Richiesta da ('127.0.0.1', 65420): GET /style.css HTTP/1.1
+2025-05-27 13:37:03 - INFO - Servito /style.css a ('127.0.0.1', 65420)
+2025-05-27 13:37:03 - INFO - Richiesta da ('127.0.0.1', 65421): GET /images/strangerthings.webp HTTP/1.1
+2025-05-27 13:37:03 - INFO - Servito /images/strangerthings.webp a ('127.0.0.1', 65421)
+2025-05-27 13:37:03 - INFO - Richiesta da ('127.0.0.1', 65422): GET /images/narcos.webp HTTP/1.1
+2025-05-27 13:37:03 - INFO - Servito /images/narcos.webp a ('127.0.0.1', 65422)
+2025-05-27 13:37:03 - INFO - Richiesta da ('127.0.0.1', 65423): GET /images/breakingbad.webp HTTP/1.1
+2025-05-27 13:37:03 - INFO - Servito /images/breakingbad.webp a ('127.0.0.1', 65423)
+2025-05-27 13:37:04 - INFO - Richiesta da ('127.0.0.1', 65424): GET /strangerthings.html HTTP/1.1
+2025-05-27 13:37:04 - INFO - Servito /strangerthings.html a ('127.0.0.1', 65424)
+2025-05-27 13:37:04 - INFO - Richiesta da ('127.0.0.1', 65425): GET /images/strangerthings.webp HTTP/1.1
+2025-05-27 13:37:04 - INFO - Servito /images/strangerthings.webp a ('127.0.0.1', 65425)
+2025-05-27 13:37:05 - INFO - Richiesta da ('127.0.0.1', 65426): GET /series.html HTTP/1.1
+2025-05-27 13:37:05 - INFO - Servito /series.html a ('127.0.0.1', 65426)
+2025-05-27 13:37:05 - INFO - Richiesta da ('127.0.0.1', 65427): GET /style.css HTTP/1.1
+2025-05-27 13:37:05 - INFO - Servito /style.css a ('127.0.0.1', 65427)
+2025-05-27 13:37:05 - INFO - Richiesta da ('127.0.0.1', 65428): GET /images/strangerthings.webp HTTP/1.1
+2025-05-27 13:37:05 - INFO - Servito /images/strangerthings.webp a ('127.0.0.1', 65428)
+2025-05-27 13:37:05 - INFO - Richiesta da ('127.0.0.1', 65429): GET /images/narcos.webp HTTP/1.1
+2025-05-27 13:37:05 - INFO - Servito /images/narcos.webp a ('127.0.0.1', 65429)
+2025-05-27 13:37:05 - INFO - Richiesta da ('127.0.0.1', 65430): GET /images/breakingbad.webp HTTP/1.1
+2025-05-27 13:37:05 - INFO - Servito /images/breakingbad.webp a ('127.0.0.1', 65430)
+2025-05-27 13:37:06 - INFO - Richiesta da ('127.0.0.1', 65431): GET /index.html HTTP/1.1
+2025-05-27 13:37:06 - INFO - Servito /index.html a ('127.0.0.1', 65431)
+2025-05-27 13:37:06 - INFO - Richiesta da ('127.0.0.1', 65432): GET /style.css HTTP/1.1
+2025-05-27 13:37:06 - INFO - Servito /style.css a ('127.0.0.1', 65432)
+2025-05-27 13:37:09 - INFO - Richiesta da ('127.0.0.1', 65433): GET /movies.html HTTP/1.1
+2025-05-27 13:37:09 - INFO - Servito /movies.html a ('127.0.0.1', 65433)
+2025-05-27 13:37:09 - INFO - Richiesta da ('127.0.0.1', 65434): GET /style.css HTTP/1.1
+2025-05-27 13:37:09 - INFO - Servito /style.css a ('127.0.0.1', 65434)
+2025-05-27 13:37:09 - INFO - Richiesta da ('127.0.0.1', 65435): GET /images/inception.webp HTTP/1.1
+2025-05-27 13:37:09 - INFO - Servito /images/inception.webp a ('127.0.0.1', 65435)
+2025-05-27 13:37:09 - INFO - Richiesta da ('127.0.0.1', 65436): GET /images/interstellar.webp HTTP/1.1
+2025-05-27 13:37:09 - INFO - Servito /images/interstellar.webp a ('127.0.0.1', 65436)
+2025-05-27 13:37:09 - INFO - Richiesta da ('127.0.0.1', 65437): GET /images/pergola.webp HTTP/1.1
+2025-05-27 13:37:09 - INFO - Servito /images/pergola.webp a ('127.0.0.1', 65437)
+2025-05-27 13:37:12 - INFO - Richiesta da ('127.0.0.1', 65454): GET / HTTP/1.1
+2025-05-27 13:37:12 - INFO - Servito /index.html a ('127.0.0.1', 65454)
+2025-05-27 13:37:13 - INFO - Richiesta da ('127.0.0.1', 65456): GET /style.css HTTP/1.1
+2025-05-27 13:37:13 - INFO - Servito /style.css a ('127.0.0.1', 65456)
+2025-05-27 13:37:13 - INFO - Richiesta da ('127.0.0.1', 65459): GET /favicon.ico HTTP/1.1
+2025-05-27 13:37:13 - WARNING - File non trovato /favicon.ico richiesto da ('127.0.0.1', 65459)
+2025-05-27 13:37:15 - INFO - Richiesta da ('127.0.0.1', 65474): GET /movies.html HTTP/1.1
+2025-05-27 13:37:15 - INFO - Servito /movies.html a ('127.0.0.1', 65474)
+2025-05-27 13:37:16 - INFO - Richiesta da ('127.0.0.1', 65475): GET /movies.html HTTP/1.1
+2025-05-27 13:37:16 - INFO - Servito /movies.html a ('127.0.0.1', 65475)
+2025-05-27 13:37:16 - INFO - Richiesta da ('127.0.0.1', 65478): GET /movies.html HTTP/1.1
+2025-05-27 13:37:16 - INFO - Servito /movies.html a ('127.0.0.1', 65478)
+2025-05-27 13:37:16 - INFO - Richiesta da ('127.0.0.1', 65483): GET /style.css HTTP/1.1
+2025-05-27 13:37:16 - INFO - Servito /style.css a ('127.0.0.1', 65483)
+2025-05-27 13:37:16 - INFO - Richiesta da ('127.0.0.1', 65484): GET /images/inception.webp HTTP/1.1
+2025-05-27 13:37:17 - INFO - Servito /images/inception.webp a ('127.0.0.1', 65484)
+2025-05-27 13:37:17 - INFO - Richiesta da ('127.0.0.1', 65485): GET /images/interstellar.webp HTTP/1.1
+2025-05-27 13:37:17 - INFO - Servito /images/interstellar.webp a ('127.0.0.1', 65485)
+2025-05-27 13:37:17 - INFO - Richiesta da ('127.0.0.1', 65486): GET /images/pergola.webp HTTP/1.1
+2025-05-27 13:37:17 - INFO - Servito /images/pergola.webp a ('127.0.0.1', 65486)
+2025-05-27 13:37:18 - INFO - Richiesta da ('127.0.0.1', 65487): GET /pergola.html HTTP/1.1
+2025-05-27 13:37:18 - INFO - Servito /pergola.html a ('127.0.0.1', 65487)
+2025-05-27 13:37:18 - INFO - Richiesta da ('127.0.0.1', 65490): GET /images/pergola.webp HTTP/1.1
+2025-05-27 13:37:18 - INFO - Servito /images/pergola.webp a ('127.0.0.1', 65490)
+2025-05-27 13:37:20 - INFO - Richiesta da ('127.0.0.1', 65491): GET /movies.html HTTP/1.1
+2025-05-27 13:37:20 - INFO - Servito /movies.html a ('127.0.0.1', 65491)
+2025-05-27 13:37:20 - INFO - Richiesta da ('127.0.0.1', 65497): GET /images/inception.webp HTTP/1.1
+2025-05-27 13:37:20 - INFO - Servito /images/inception.webp a ('127.0.0.1', 65497)
+2025-05-27 13:37:20 - INFO - Richiesta da ('127.0.0.1', 65498): GET /style.css HTTP/1.1
+2025-05-27 13:37:20 - INFO - Servito /style.css a ('127.0.0.1', 65498)
+2025-05-27 13:37:20 - INFO - Richiesta da ('127.0.0.1', 65499): GET /images/interstellar.webp HTTP/1.1
+2025-05-27 13:37:20 - INFO - Servito /images/interstellar.webp a ('127.0.0.1', 65499)
+2025-05-27 13:37:20 - INFO - Richiesta da ('127.0.0.1', 65500): GET /images/pergola.webp HTTP/1.1
+2025-05-27 13:37:20 - INFO - Servito /images/pergola.webp a ('127.0.0.1', 65500)
+2025-05-27 13:38:42 - INFO - Richiesta da ('127.0.0.1', 65502): GET /interstellar.html HTTP/1.1
+2025-05-27 13:38:42 - INFO - Servito /interstellar.html a ('127.0.0.1', 65502)
+2025-05-27 13:38:42 - INFO - Richiesta da ('127.0.0.1', 65503): GET /interstellar.html HTTP/1.1
+2025-05-27 13:38:42 - INFO - Servito /interstellar.html a ('127.0.0.1', 65503)
+2025-05-27 13:38:42 - INFO - Richiesta da ('127.0.0.1', 65504): GET /interstellar.html HTTP/1.1
+2025-05-27 13:38:42 - INFO - Servito /interstellar.html a ('127.0.0.1', 65504)
+2025-05-27 13:38:42 - INFO - Richiesta da ('127.0.0.1', 65505): GET /interstellar.html HTTP/1.1
+2025-05-27 13:38:42 - INFO - Servito /interstellar.html a ('127.0.0.1', 65505)
+2025-05-27 13:38:42 - INFO - Richiesta da ('127.0.0.1', 65506): GET /interstellar.html HTTP/1.1
+2025-05-27 13:38:42 - INFO - Servito /interstellar.html a ('127.0.0.1', 65506)
+2025-05-27 13:38:42 - INFO - Richiesta da ('127.0.0.1', 49158): GET / HTTP/1.1
+2025-05-27 13:38:42 - INFO - Servito /index.html a ('127.0.0.1', 49158)
+2025-05-27 13:38:42 - INFO - Richiesta da ('127.0.0.1', 49159): GET /style.css HTTP/1.1
+2025-05-27 13:38:42 - INFO - Servito /style.css a ('127.0.0.1', 49159)
+2025-05-27 13:38:46 - INFO - Richiesta da ('127.0.0.1', 49160): GET /movies.html HTTP/1.1
+2025-05-27 13:38:46 - INFO - Servito /movies.html a ('127.0.0.1', 49160)
+2025-05-27 13:38:46 - INFO - Richiesta da ('127.0.0.1', 49161): GET /style.css HTTP/1.1
+2025-05-27 13:38:46 - INFO - Servito /style.css a ('127.0.0.1', 49161)
+2025-05-27 13:38:46 - INFO - Richiesta da ('127.0.0.1', 49162): GET /images/inception.webp HTTP/1.1
+2025-05-27 13:38:46 - INFO - Servito /images/inception.webp a ('127.0.0.1', 49162)
+2025-05-27 13:38:46 - INFO - Richiesta da ('127.0.0.1', 49163): GET /images/interstellar.webp HTTP/1.1
+2025-05-27 13:38:46 - INFO - Servito /images/interstellar.webp a ('127.0.0.1', 49163)
+2025-05-27 13:38:46 - INFO - Richiesta da ('127.0.0.1', 49164): GET /images/pergola.webp HTTP/1.1
+2025-05-27 13:38:46 - INFO - Servito /images/pergola.webp a ('127.0.0.1', 49164)
+2025-05-27 13:38:48 - INFO - Richiesta da ('127.0.0.1', 49165): GET /interstellar.html HTTP/1.1
+2025-05-27 13:38:48 - INFO - Servito /interstellar.html a ('127.0.0.1', 49165)
+2025-05-27 13:38:48 - INFO - Richiesta da ('127.0.0.1', 49166): GET /images/interstellar.webp HTTP/1.1
+2025-05-27 13:38:48 - INFO - Servito /images/interstellar.webp a ('127.0.0.1', 49166)
+2025-05-27 13:38:49 - INFO - Richiesta da ('127.0.0.1', 49167): GET /movies.html HTTP/1.1
+2025-05-27 13:38:49 - INFO - Servito /movies.html a ('127.0.0.1', 49167)
+2025-05-27 13:38:49 - INFO - Richiesta da ('127.0.0.1', 49168): GET /style.css HTTP/1.1
+2025-05-27 13:38:49 - INFO - Servito /style.css a ('127.0.0.1', 49168)
+2025-05-27 13:38:49 - INFO - Richiesta da ('127.0.0.1', 49169): GET /images/inception.webp HTTP/1.1
+2025-05-27 13:38:49 - INFO - Servito /images/inception.webp a ('127.0.0.1', 49169)
+2025-05-27 13:38:49 - INFO - Richiesta da ('127.0.0.1', 49170): GET /images/interstellar.webp HTTP/1.1
+2025-05-27 13:38:49 - INFO - Servito /images/interstellar.webp a ('127.0.0.1', 49170)
+2025-05-27 13:38:49 - INFO - Richiesta da ('127.0.0.1', 49171): GET /images/pergola.webp HTTP/1.1
+2025-05-27 13:38:49 - INFO - Servito /images/pergola.webp a ('127.0.0.1', 49171)
